@@ -1,0 +1,784 @@
+{
+ "items": {
+  "dh_helm": {
+   "itemId": 4716,
+   "name": "Dharok's helm",
+   "models": [
+    6651
+   ],
+   "offset": 0,
+   "wearPos": [
+    0,
+    8
+   ],
+   "recolor": [
+    [
+     10394,
+     10388
+    ],
+    [
+     10388,
+     10508
+    ]
+   ],
+   "retexture": null
+  },
+  "dh_body": {
+   "itemId": 4720,
+   "name": "Dharok's platebody",
+   "models": [
+    6670,
+    6639
+   ],
+   "offset": 0,
+   "wearPos": [
+    4,
+    6
+   ],
+   "recolor": [
+    [
+     10394,
+     10291
+    ],
+    [
+     10388,
+     10508
+    ]
+   ],
+   "retexture": null
+  },
+  "dh_legs": {
+   "itemId": 4722,
+   "name": "Dharok's platelegs",
+   "models": [
+    6660
+   ],
+   "offset": 0,
+   "wearPos": [
+    7
+   ],
+   "recolor": [
+    [
+     10394,
+     10388
+    ],
+    [
+     10512,
+     10760
+    ]
+   ],
+   "retexture": null
+  },
+  "dh_axe": {
+   "itemId": 4718,
+   "name": "Dharok's greataxe",
+   "models": [
+    6702
+   ],
+   "offset": 0,
+   "wearPos": [
+    3,
+    5
+   ],
+   "recolor": null,
+   "retexture": null
+  },
+  "tentacle": {
+   "itemId": 12006,
+   "name": "Abyssal tentacle",
+   "models": [
+    28446
+   ],
+   "offset": 0,
+   "wearPos": [
+    3
+   ],
+   "recolor": null,
+   "retexture": null
+  },
+  "avernic": {
+   "itemId": 22322,
+   "name": "Avernic defender",
+   "models": [
+    35376
+   ],
+   "offset": 0,
+   "wearPos": [
+    5
+   ],
+   "recolor": null,
+   "retexture": null
+  },
+  "infernal": {
+   "itemId": 21295,
+   "name": "Infernal cape",
+   "models": [
+    33103
+   ],
+   "offset": 0,
+   "wearPos": [
+    1
+   ],
+   "recolor": null,
+   "retexture": null
+  },
+  "treads": {
+   "itemId": 31088,
+   "name": "Avernic treads",
+   "models": [
+    57289
+   ],
+   "offset": 0,
+   "wearPos": [
+    10
+   ],
+   "recolor": null,
+   "retexture": null
+  },
+  "ferocious": {
+   "itemId": 22981,
+   "name": "Ferocious gloves",
+   "models": [
+    36325
+   ],
+   "offset": 0,
+   "wearPos": [
+    9
+   ],
+   "recolor": null,
+   "retexture": null
+  },
+  "rancour": {
+   "itemId": 29801,
+   "name": "Amulet of rancour",
+   "models": [
+    54326
+   ],
+   "offset": 0,
+   "wearPos": [
+    2
+   ],
+   "recolor": null,
+   "retexture": null
+  },
+  "voidwaker": {
+   "itemId": 27690,
+   "name": "Voidwaker",
+   "models": [
+    47212
+   ],
+   "offset": 0,
+   "wearPos": [
+    3
+   ],
+   "recolor": null,
+   "retexture": null
+  },
+  "gmaul": {
+   "itemId": 24225,
+   "name": "Granite maul",
+   "models": [
+    38850
+   ],
+   "offset": 0,
+   "wearPos": [
+    3,
+    5
+   ],
+   "recolor": null,
+   "retexture": null
+  },
+  "ags": {
+   "itemId": 11802,
+   "name": "Armadyl godsword",
+   "models": [
+    27649
+   ],
+   "offset": 2,
+   "wearPos": [
+    3,
+    5
+   ],
+   "recolor": null,
+   "retexture": null
+  }
+ },
+ "kits": {
+  "head": {
+   "kitId": 0,
+   "bodyPart": 0,
+   "models": [
+    230
+   ],
+   "recolor": null
+  },
+  "jaw": {
+   "kitId": 10,
+   "bodyPart": 1,
+   "models": [
+    249
+   ],
+   "recolor": null
+  },
+  "torso": {
+   "kitId": 18,
+   "bodyPart": 2,
+   "models": [
+    28515
+   ],
+   "recolor": null
+  },
+  "arms": {
+   "kitId": 26,
+   "bodyPart": 3,
+   "models": [
+    26632
+   ],
+   "recolor": null
+  },
+  "hands": {
+   "kitId": 33,
+   "bodyPart": 4,
+   "models": [
+    176
+   ],
+   "recolor": null
+  },
+  "legs": {
+   "kitId": 36,
+   "bodyPart": 5,
+   "models": [
+    28285
+   ],
+   "recolor": null
+  },
+  "feet": {
+   "kitId": 42,
+   "bodyPart": 6,
+   "models": [
+    181
+   ],
+   "recolor": null
+  }
+ },
+ "spotanims": {
+  "340": {
+   "model": 5415,
+   "anim": 1668,
+   "scale": [
+    128,
+    128
+   ],
+   "rotation": 0,
+   "recolor": null
+  },
+  "341": {
+   "model": 5416,
+   "anim": 1669,
+   "scale": [
+    128,
+    128
+   ],
+   "rotation": 0,
+   "recolor": null
+  },
+  "678": {
+   "model": 12734,
+   "anim": 4072,
+   "scale": [
+    128,
+    128
+   ],
+   "rotation": 0,
+   "recolor": null
+  },
+  "725": {
+   "model": 16828,
+   "anim": 4417,
+   "scale": [
+    128,
+    128
+   ],
+   "rotation": 0,
+   "recolor": null
+  },
+  "726": {
+   "model": 16828,
+   "anim": 4417,
+   "scale": [
+    128,
+    128
+   ],
+   "rotation": 0,
+   "recolor": [
+    [
+     7265
+    ],
+    [
+     563
+    ]
+   ]
+  },
+  "1211": {
+   "model": 28129,
+   "anim": 7062,
+   "scale": [
+    128,
+    128
+   ],
+   "rotation": 0,
+   "recolor": null
+  },
+  "2363": {
+   "model": 44174,
+   "anim": 11464,
+   "scale": [
+    128,
+    128
+   ],
+   "rotation": 0,
+   "recolor": [
+    [
+     445,
+     468,
+     39
+    ],
+    [
+     58813,
+     55762,
+     54441
+    ]
+   ]
+  },
+  "2834": {
+   "model": 44174,
+   "anim": 11463,
+   "scale": [
+    128,
+    128
+   ],
+   "rotation": 0,
+   "recolor": [
+    [
+     445,
+     468,
+     39
+    ],
+    [
+     58813,
+     55762,
+     54441
+    ]
+   ]
+  }
+ },
+ "objects": {
+  "50753": {
+   "models": [
+    50745
+   ],
+   "anim": 10872,
+   "scale": [
+    128,
+    128,
+    128
+   ],
+   "recolor": [
+    [
+     4550,
+     4544,
+     4541,
+     4661,
+     6798,
+     4550,
+     43072,
+     43303
+    ],
+    [
+     4643,
+     4636,
+     4634,
+     4634,
+     4,
+     4643,
+     4643,
+     4626
+    ]
+   ]
+  },
+  "50754": {
+   "models": [
+    50751
+   ],
+   "anim": 10872,
+   "scale": [
+    128,
+    128,
+    128
+   ],
+   "recolor": [
+    [
+     4550,
+     4544,
+     4541,
+     6798,
+     4550,
+     4661,
+     43072,
+     43303
+    ],
+    [
+     4537,
+     4531,
+     4527,
+     4,
+     4537,
+     4657,
+     4537,
+     4626
+    ]
+   ]
+  },
+  "50755": {
+   "models": [
+    50750
+   ],
+   "anim": 10872,
+   "scale": [
+    128,
+    128,
+    128
+   ],
+   "recolor": [
+    [
+     4550,
+     4544,
+     4541,
+     4661,
+     6798,
+     4550,
+     43072,
+     43303
+    ],
+    [
+     4643,
+     4636,
+     4634,
+     4634,
+     4,
+     4643,
+     4643,
+     4626
+    ]
+   ]
+  },
+  "50756": {
+   "models": [
+    50962
+   ],
+   "anim": 10872,
+   "scale": [
+    128,
+    128,
+    128
+   ],
+   "recolor": [
+    [
+     4550,
+     4550,
+     43072,
+     43303
+    ],
+    [
+     4550,
+     4550,
+     4550,
+     4626
+    ]
+   ]
+  },
+  "50757": {
+   "models": [
+    50963
+   ],
+   "anim": 10872,
+   "scale": [
+    128,
+    128,
+    128
+   ],
+   "recolor": [
+    [
+     4550,
+     4544,
+     4541,
+     6798,
+     4550,
+     4661,
+     43072,
+     43303
+    ],
+    [
+     4428,
+     4420,
+     4413,
+     4653,
+     4428,
+     4539,
+     4428,
+     4626
+    ]
+   ]
+  },
+  "50758": {
+   "models": [
+    50964
+   ],
+   "anim": 10872,
+   "scale": [
+    128,
+    128,
+    128
+   ],
+   "recolor": [
+    [
+     4550,
+     4544,
+     4541,
+     4661,
+     6798,
+     4550,
+     43072,
+     43303
+    ],
+    [
+     4643,
+     4636,
+     4634,
+     4634,
+     4,
+     4643,
+     4643,
+     4626
+    ]
+   ]
+  }
+ },
+ "sequences": {
+  "386": {
+   "frames": 6,
+   "ticks": 39
+  },
+  "388": {
+   "frames": 10,
+   "ticks": 54
+  },
+  "390": {
+   "frames": 10,
+   "ticks": 39
+  },
+  "422": {
+   "frames": 5,
+   "ticks": 38
+  },
+  "423": {
+   "frames": 5,
+   "ticks": 35
+  },
+  "424": {
+   "frames": 8,
+   "ticks": 63
+  },
+  "808": {
+   "frames": 12,
+   "ticks": 252
+  },
+  "819": {
+   "frames": 8,
+   "ticks": 48
+  },
+  "820": {
+   "frames": 8,
+   "ticks": 48
+  },
+  "821": {
+   "frames": 4,
+   "ticks": 24
+  },
+  "822": {
+   "frames": 4,
+   "ticks": 24
+  },
+  "823": {
+   "frames": 4,
+   "ticks": 44
+  },
+  "824": {
+   "frames": 8,
+   "ticks": 34
+  },
+  "829": {
+   "frames": 10,
+   "ticks": 73
+  },
+  "836": {
+   "frames": 10,
+   "ticks": 20047
+  },
+  "1156": {
+   "frames": 17,
+   "ticks": 62
+  },
+  "1658": {
+   "frames": 15,
+   "ticks": 39
+  },
+  "1659": {
+   "frames": 10,
+   "ticks": 53
+  },
+  "1660": {
+   "frames": 8,
+   "ticks": 48
+  },
+  "1661": {
+   "frames": 8,
+   "ticks": 34
+  },
+  "1662": {
+   "frames": 12,
+   "ticks": 240
+  },
+  "1663": {
+   "frames": 8,
+   "ticks": 48
+  },
+  "1664": {
+   "frames": 8,
+   "ticks": 34
+  },
+  "1665": {
+   "frames": 11,
+   "ticks": 44
+  },
+  "1666": {
+   "frames": 8,
+   "ticks": 32
+  },
+  "1667": {
+   "frames": 11,
+   "ticks": 18
+  },
+  "1668": {
+   "frames": 13,
+   "ticks": 26
+  },
+  "1669": {
+   "frames": 10,
+   "ticks": 33
+  },
+  "2063": {
+   "frames": 11,
+   "ticks": 70
+  },
+  "2064": {
+   "frames": 8,
+   "ticks": 48
+  },
+  "2065": {
+   "frames": 12,
+   "ticks": 252
+  },
+  "2066": {
+   "frames": 9,
+   "ticks": 26
+  },
+  "2067": {
+   "frames": 11,
+   "ticks": 31
+  },
+  "4069": {
+   "frames": 6,
+   "ticks": 44
+  },
+  "4071": {
+   "frames": 13,
+   "ticks": 41
+  },
+  "4072": {
+   "frames": 13,
+   "ticks": 52
+  },
+  "4177": {
+   "frames": 6,
+   "ticks": 42
+  },
+  "4417": {
+   "frames": 23,
+   "ticks": 145
+  },
+  "7043": {
+   "frames": 32,
+   "ticks": 32
+  },
+  "7045": {
+   "frames": 19,
+   "ticks": 38
+  },
+  "7052": {
+   "frames": 16,
+   "ticks": 48
+  },
+  "7053": {
+   "frames": 49,
+   "ticks": 147
+  },
+  "7054": {
+   "frames": 19,
+   "ticks": 47
+  },
+  "7056": {
+   "frames": 20,
+   "ticks": 40
+  },
+  "7062": {
+   "frames": 31,
+   "ticks": 93
+  },
+  "7644": {
+   "frames": 31,
+   "ticks": 93
+  },
+  "8316": {
+   "frames": 33,
+   "ticks": 165
+  },
+  "10872": {
+   "frames": 16,
+   "ticks": 80
+  },
+  "11275": {
+   "frames": 14,
+   "ticks": 70
+  },
+  "11463": {
+   "frames": 16,
+   "ticks": 65
+  },
+  "11464": {
+   "frames": 15,
+   "ticks": 60
+  },
+  "11466": {
+   "frames": 8,
+   "ticks": 34
+  }
+ },
+ "textures": {
+  "59": {
+   "sprite": 318,
+   "animDir": 1,
+   "animSpeed": 1
+  }
+ }
+}
