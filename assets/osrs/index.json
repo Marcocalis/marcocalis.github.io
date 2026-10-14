@@ -201,6 +201,41 @@
    ],
    "recolor": null,
    "retexture": null
+  },
+  "elder_maul": {
+   "itemId": 21003,
+   "name": "Elder maul",
+   "models": [
+    32678
+   ],
+   "offset": 0,
+   "wearPos": [
+    3,
+    5
+   ],
+   "recolor": null,
+   "retexture": null
+  },
+  "nox_halberd": {
+   "itemId": 29796,
+   "name": "Noxious halberd",
+   "models": [
+    54316
+   ],
+   "offset": 0,
+   "wearPos": [
+    3,
+    5
+   ],
+   "recolor": [
+    [
+     61
+    ],
+    [
+     0
+    ]
+   ],
+   "retexture": null
   }
  },
  "kits": {
@@ -350,6 +385,26 @@
     ]
    ]
   },
+  "2804": {
+   "model": 53145,
+   "anim": 11125,
+   "scale": [
+    128,
+    128
+   ],
+   "rotation": 0,
+   "recolor": null
+  },
+  "2805": {
+   "model": 51219,
+   "anim": 11126,
+   "scale": [
+    128,
+    128
+   ],
+   "rotation": 0,
+   "recolor": null
+  },
   "2834": {
    "model": 44174,
    "anim": 11463,
@@ -370,6 +425,16 @@
      54441
     ]
    ]
+  },
+  "2930": {
+   "model": 54287,
+   "anim": 11516,
+   "scale": [
+    128,
+    128
+   ],
+   "rotation": 0,
+   "recolor": null
   }
  },
  "objects": {
@@ -589,7 +654,31 @@
    "frames": 8,
    "ticks": 63
   },
+  "428": {
+   "frames": 6,
+   "ticks": 39
+  },
+  "430": {
+   "frames": 10,
+   "ticks": 103
+  },
+  "435": {
+   "frames": 11,
+   "ticks": 56
+  },
+  "440": {
+   "frames": 13,
+   "ticks": 75
+  },
   "808": {
+   "frames": 12,
+   "ticks": 252
+  },
+  "809": {
+   "frames": 12,
+   "ticks": 240
+  },
+  "813": {
    "frames": 12,
    "ticks": 252
   },
@@ -625,9 +714,37 @@
    "frames": 10,
    "ticks": 20047
   },
+  "1146": {
+   "frames": 8,
+   "ticks": 48
+  },
   "1156": {
    "frames": 17,
    "ticks": 62
+  },
+  "1205": {
+   "frames": 8,
+   "ticks": 48
+  },
+  "1206": {
+   "frames": 8,
+   "ticks": 48
+  },
+  "1207": {
+   "frames": 4,
+   "ticks": 24
+  },
+  "1208": {
+   "frames": 4,
+   "ticks": 24
+  },
+  "1209": {
+   "frames": 4,
+   "ticks": 44
+  },
+  "1210": {
+   "frames": 8,
+   "ticks": 34
   },
   "1658": {
    "frames": 15,
@@ -745,6 +862,26 @@
    "frames": 31,
    "ticks": 93
   },
+  "7516": {
+   "frames": 19,
+   "ticks": 76
+  },
+  "7517": {
+   "frames": 6,
+   "ticks": 30
+  },
+  "7518": {
+   "frames": 10,
+   "ticks": 120
+  },
+  "7519": {
+   "frames": 15,
+   "ticks": 30
+  },
+  "7520": {
+   "frames": 16,
+   "ticks": 64
+  },
   "7644": {
    "frames": 31,
    "ticks": 93
@@ -756,6 +893,18 @@
   "10872": {
    "frames": 16,
    "ticks": 80
+  },
+  "11124": {
+   "frames": 21,
+   "ticks": 89
+  },
+  "11125": {
+   "frames": 23,
+   "ticks": 97
+  },
+  "11126": {
+   "frames": 10,
+   "ticks": 29
   },
   "11275": {
    "frames": 14,
@@ -772,6 +921,26 @@
   "11466": {
    "frames": 8,
    "ticks": 34
+  },
+  "11513": {
+   "frames": 18,
+   "ticks": 72
+  },
+  "11514": {
+   "frames": 18,
+   "ticks": 90
+  },
+  "11515": {
+   "frames": 18,
+   "ticks": 72
+  },
+  "11516": {
+   "frames": 13,
+   "ticks": 90
+  },
+  "11517": {
+   "frames": 17,
+   "ticks": 68
   }
  },
  "textures": {
